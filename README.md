@@ -5,14 +5,23 @@ Chtoby Ryzha hvalily
 
 # Libraries
 [numpy](https://www.numpy.org/)
+
 [pandas](https://pandas.pydata.org/)
+
 [keras](keras.io/)
+
 [scipy](https://www.scipy.org/)
+
 [newspaper3k](https://newspaper.readthedocs.io/en/latest/)
+
 [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+
 [nltk](https://www.nltk.org/)
+
 [sklearn](https://scikit-learn.org/)
+
 [gensim](https://radimrehurek.com/gensim/)
+
 [pyLDAvis](https://pyldavis.readthedocs.io/en/latest/)
 
 # Features
