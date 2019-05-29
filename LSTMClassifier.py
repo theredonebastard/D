@@ -1,3 +1,5 @@
+import BitcoinData
+
 class LSTMClassifier:
     
     data = []
