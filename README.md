@@ -1,10 +1,15 @@
 # Development of Software Library for Financial Time Series Forecasting
-Ryzh staralsya
+######Ryzh staralsya######
+
 Bachelor’s qualifying paper «Development of a Software Library for Financial Time Series Forecasting»
+
 The object of the study is the process of forecasting and classification in machine learning.
+
 The aim of the study is to develop a library of financial time series forecasting.
+
 The methods of research are object oriented analysis, software engineering
 methods, data analysis methods.
+
 In a bachelor’s qualifying paper provides an analytical review of recent publications on the financial time series forecasting. Methods of processing and classification of text data are considered. The design of the library for predicting financial values based on the analysis of text news is executed. Tools are implemented for downloading, processing and conducting computations over financial and text data.
 
 # Motivation
