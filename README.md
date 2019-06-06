@@ -38,7 +38,14 @@ Chtoby Ryzha hvalily
 
 # Features
 
+In accordance with the developed project, a high-level Python library has been implemented and tested, which can be used as a module in the automated trading system for the currency and securities market. A number of computational experiments have been carried out and high accuracy of prediction of price dynamics for Bitcoin crypto-currency was demonstrated.
+
+The advantage of the developed library is the combination of both standard approaches of time series prediction, as well as analysis of the text news influence on the dynamics of crypto-currency Bitcoin price. At the same time, for the modelling of text news, an approach based on methods of text thematic modeling is implemented.
+
+The developed library allows to configure a large number of hyperparameters that affect the result of forecasting, in particular, to improve the accuracy of forecasting, the method of combining different types of classifiers in one ensemble is used.
+
 # Usage Example
+
 ```python
 btcData = BitcoinData()
 btcData.load(path='../input/ryzhbtc', filename='Bitcoin Historical Data - Investing.com.csv')
