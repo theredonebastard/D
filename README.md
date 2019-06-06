@@ -1,5 +1,5 @@
 # Development of Software Library for Financial Time Series Forecasting
-######Ryzh staralsya######
+> Ryzh staralsya 
 
 Bachelor’s qualifying paper «Development of a Software Library for Financial Time Series Forecasting»
 
